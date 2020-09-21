@@ -1,4 +1,4 @@
-#EV Notebooks
+# EV Notebooks
 
 Simulation of EV charging queues using different policies. Based on (https://github.com/Grupo-MATE/EVQueues.jl) for running the simulations in Julia.
 
