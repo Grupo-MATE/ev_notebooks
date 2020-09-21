@@ -58,9 +58,9 @@ version = "0.7.0"
 
 [[ColorSchemes]]
 deps = ["ColorTypes", "Colors", "FixedPointNumbers", "Random", "StaticArrays"]
-git-tree-sha1 = "7a15e3690529fd1042f0ab954dff7445b1efc8a5"
+git-tree-sha1 = "950f477dfe152a0dd2221124986a5722db385199"
 uuid = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
-version = "3.9.0"
+version = "3.10.0"
 
 [[ColorTypes]]
 deps = ["FixedPointNumbers", "Random"]
@@ -152,7 +152,7 @@ version = "0.23.12"
 
 [[EVQueues]]
 deps = ["DataFrames", "Distributions", "GLPK", "JuMP", "Plots", "ProgressMeter", "Serialization"]
-git-tree-sha1 = "d9c4a48a7838baca9a6694cfedd5fe49e5bd903c"
+git-tree-sha1 = "f4cdfc44b8067ae17d2b4a36e3af1d22b9bb1623"
 repo-rev = "master"
 repo-url = "https://github.com/Grupo-MATE/EVQueues.jl.git"
 uuid = "0ba0fc34-c32a-4e87-897a-dc4e812d5ecc"
@@ -292,9 +292,9 @@ version = "0.3.2"
 
 [[JuMP]]
 deps = ["Calculus", "DataStructures", "ForwardDiff", "JSON", "LinearAlgebra", "MathOptInterface", "MutableArithmetics", "NaNMath", "Random", "SparseArrays", "Statistics"]
-git-tree-sha1 = "766014f271bd33b7f9d9bdc4847e214ee20ae84d"
+git-tree-sha1 = "57c17a221a55f81890aabf00f478886859e25eaf"
 uuid = "4076af6c-e467-56ae-b986-b466b2749572"
-version = "0.21.4"
+version = "0.21.5"
 
 [[LAME_jll]]
 deps = ["Libdl", "Pkg"]
