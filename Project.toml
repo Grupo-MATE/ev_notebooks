@@ -1,3 +1,4 @@
 [deps]
 EVQueues = "0ba0fc34-c32a-4e87-897a-dc4e812d5ecc"
+KernelEstimator = "857edff2-01a9-55ba-8bc9-13e46c0ddbb2"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
